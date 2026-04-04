@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Joanna Luc — Publications</title>
+    <link>https://joannaluc.github.io/publications/</link>
+    <atom:link href="https://joannaluc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Academic publications by Joanna Luc</description>
+    <language>en</language>
+    <lastBuildDate>2026-04-04</lastBuildDate>
+    
+  </channel>
+</rss>
